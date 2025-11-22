@@ -1,0 +1,7 @@
+id = "Your Name. Theme"
+name = "Your Name. Theme"
+version = "1.0.0"
+schema_version = 1
+authors = ["Ahum Maitra <theahummaitra@gmail.com>"]
+description = "Official Dracula theme for Zed"
+repository = "https://github.com/dracula/zed"
