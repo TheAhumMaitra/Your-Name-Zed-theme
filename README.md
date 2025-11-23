@@ -19,8 +19,6 @@ you’re in the perfect place. ✨
 
 # 🌌 Preview
 
-Coming soon..
-
 # 💫 About This Theme
 
 This theme was crafted with a lot of appreciation for the emotional storytelling and breathtaking color work of Makoto Shinkai.
