@@ -1,6 +1,6 @@
 # 🌠 Your Name. Theme for Zed
 
-[![Zed extension](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/TheAhumMaitra/Your-Name-Zed-theme/main/assests/badges/zed_extension_badge.json)](https://zed.dev)
+[![Zed extension](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/TheAhumMaitra/Your-Name-Zed-theme/main/assests/badges/zed_extension_badge.json)](https://zed.dev/extensions/your-name-theme)
 
 Sometimes, the right colors can completely change the mood of your workspace—
 just like how a single comet streaking across the sky can change an entire story.
