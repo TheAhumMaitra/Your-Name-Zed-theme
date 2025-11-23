@@ -1,3 +1,39 @@
-# Your Name. - Zed theme
+🌠 Your Name. Theme for Zed
 
-I love Your Name. film, and maybe you watched and loved it too! If you love Your Name. film, then install this theme in your Zed.
+Sometimes, the right colors can completely change the mood of your workspace—
+just like how a single comet streaking across the sky can change an entire story.
+
+The Your Name. Theme for Zed brings the warm sunsets, dreamy palettes, and cinematic glow of Makoto Shinkai’s masterpiece Your Name. straight into your editor.
+If you’ve ever wished your coding environment felt a little more magical, nostalgic, or atmospheric…
+you’re in the perfect place. ✨
+
+🌌 Preview
+
+A small glimpse of how the theme transforms your Zed experience:
+(Preview screenshot coming soon!)
+
+💫 About This Theme
+
+This theme was crafted with a lot of appreciation for the emotional storytelling and breathtaking color work of Makoto Shinkai.
+The goal was simple:
+bring a slice of that dreamy, bittersweet world into your daily coding sessions.
+
+Warm highlights, soft contrasts, twilit blues, and neon touches—
+all designed to keep your workspace gentle, inspiring, and a little bit magical.
+
+📜 Copyright Notice
+
+This theme is inspired by the visual style of the film Your Name.
+It is a fan-made project and is not affiliated with
+CoMix Wave Films, Toho, or Makoto Shinkai.
+
+A heartfelt thank-you to Makoto Shinkai and CoMix Wave Films for creating such a beautiful and unforgettable film. 🌠
+
+📄 License
+
+You can find the full license in the LICENSE file.
+
+Made with heart, nostalgia, and maybe too many late-night coding sessions.
+I hope this theme brings a spark of magic to your workflow. ✨
+
+Enjoy coding!
