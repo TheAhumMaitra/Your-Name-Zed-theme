@@ -42,7 +42,7 @@ _A heartfelt thank-you to Makoto Shinkai and CoMix Wave Films for creating such 
 
 # 📄 License
 
-You can find the full license in the LICENSE file.
+[`MIT LICENSE`](License.md)
 
 Made with heart, nostalgia, and maybe too many late-night coding sessions.
 _I hope this theme brings a spark of magic to your workflow. ✨_
