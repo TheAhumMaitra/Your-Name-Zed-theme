@@ -19,6 +19,10 @@ you’re in the perfect place. ✨
 
 # 🌌 Preview
 
+![Preview 1 - Python](https://raw.githubusercontent.com/TheAhumMaitra/Your-Name-Zed-theme/main/p1.png)
+
+### Credit : Ahum (Me)
+
 # 💫 About This Theme
 
 This theme was crafted with a lot of appreciation for the emotional storytelling and breathtaking color work of Makoto Shinkai.
