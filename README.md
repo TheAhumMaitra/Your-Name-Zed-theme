@@ -44,7 +44,7 @@ _A heartfelt thank-you to Makoto Shinkai and CoMix Wave Films for creating such 
 
 [`MIT LICENSE`](LICENSE.md)
 
-Made with heart, nostalgia, and maybe too many late-night coding sessions.
+Made with heart, nostalgia, and maybe too much coffee.
 _I hope this theme brings a spark of magic to your workflow. ✨_
 
 **Enjoy coding!**
