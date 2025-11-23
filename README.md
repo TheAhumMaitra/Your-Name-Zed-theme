@@ -2,6 +2,14 @@
 
 [![Zed extension](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/TheAhumMaitra/Your-Name-Zed-theme/main/assests/badges/zed_extension_badge.json)](https://zed.dev/extensions/your-name-theme)
 
+![maintained - yes](https://img.shields.io/badge/maintained-yes-black)
+
+[![OS - Linux](https://img.shields.io/badge/OS-Linux-black?logo=linux&logoColor=white)](https://www.linux.org/ "Go to Linux homepage")
+
+[![OS - macOS](https://img.shields.io/badge/OS-macOS-black?logo=apple&logoColor=white)](https://www.apple.com/macos/ "Go to Apple homepage")
+
+[![OS - Windows](https://img.shields.io/badge/OS-Windows-black?logo=windows&logoColor=white)](https://www.microsoft.com/ "Go to Microsoft homepage")
+
 Sometimes, the right colors can completely change the mood of your workspace—
 just like how a single comet streaking across the sky can change an entire story.
 
