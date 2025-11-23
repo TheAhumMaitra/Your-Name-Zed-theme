@@ -1,6 +1,6 @@
 # 🌠 Your Name. Theme for Zed
 
-[![Zed Extension](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zed-industries/zed/main/assets/badge/v0.json)](https://zed.dev)
+[![Zed extension](https://img.shields.io/badge/Zed%20extension-000?logo=zed&logoColor=white)](https://zed.dev)
 
 Sometimes, the right colors can completely change the mood of your workspace—
 just like how a single comet streaking across the sky can change an entire story.
