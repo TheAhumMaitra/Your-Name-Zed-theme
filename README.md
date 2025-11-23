@@ -1,6 +1,6 @@
 # 🌠 Your Name. Theme for Zed
 
-[![Zed extension](https://img.shields.io/badge/Zed%20extension-000?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAQAAAAAYLlVAAABhUlEQVR4Ae3aQU7DMBCF4e+u0wSa1FFgTSYE2Bl0KcZoQhLrEqGpg3mJDCxKy8NfGLLEZq2Wjg/3CexFdoT+wbytwbSQL8jODQYowvPwzYp8QCnXsHDuMX6DHPz3OX2Qc2uNauYpCoJjlfk5CsuqxmDn2+gZE0E0Z7p751PYiFtUlnxIBa+S77X1Iqkjm7BPiCXQijFhYZt2vRMpKkaGiQqzMpbWm3zQ2QZDmbmVDJ)]()
+[![Zed extension](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/TheAhumMaitra/Your-Name-Zed-theme/main/assests/badges/zed_extension_badge.json)](https://zed.dev)
 
 Sometimes, the right colors can completely change the mood of your workspace—
 just like how a single comet streaking across the sky can change an entire story.
