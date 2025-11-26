@@ -1,5 +1,5 @@
 {
-  "$schema": "https://zed.dev/schema/themes/v0.1.0.json",
+  "$schema": "https://zed.dev/schema/themes/v0.2.0.json",
   "name": "Your Name",
   "author": "Ahum Maitra",
   "themes": [
@@ -60,7 +60,7 @@
         "editor.active_line.background": "#313e4f",
         "editor.highlighted_line.background": null,
         "editor.line_number": "#313e4f",
-        "editor.active_line_number": "#ffffff",
+        "editor.active_line_number": "#6371cf",
         "editor.invisible": null,
         "editor.wrap_guide": "#313e4f",
         "editor.active_wrap_guide": "#313e4f",
@@ -140,8 +140,8 @@
         "players": [
           {
             "cursor": "#ffffff",
-            "selection": "#070C13",
-            "background": null
+            "selection": "#9995e6",
+            "background": "#5ac1feff"
           }
         ],
         "syntax": {
