@@ -42,7 +42,7 @@ _A heartfelt thank-you to Makoto Shinkai and CoMix Wave Films for creating such 
 
 # 📄 License
 
-[`MIT LICENSE`](LICENSE.md)
+[`GNU GENERAL PUBLIC LICENSE - VERSION 3`](LICENSE.md)
 
 Made with heart, nostalgia, and maybe too much coffee.
 _I hope this theme brings a spark of magic to your workflow. ✨_
